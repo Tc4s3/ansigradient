@@ -1,0 +1,20 @@
+GIMP Palette
+Name: 16bitmono
+Columns: 4
+#
+0   0   0   Color 01
+17  17  17  Color 02
+34  34  34  Color 03
+51  51  51  Color 04
+69  70  69  Color 05
+86  87  86  Color 06
+103 104 103 Color 07
+122 123 122 Color 08
+122 123 122 Color 09
+140 141 140 Color 10
+159 159 159 Color 11
+177 178 177 Color 12
+197 198 197 Color 13
+216 216 216 Color 14
+235 235 235 Color 15
+255 255 255 Color 16
