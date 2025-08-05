@@ -21,5 +21,9 @@ was 16 values and wholey ANSI compliant.
 do whatever you like with it, im giving it no license think of this as effectively public domain 
 lol all i did was stir the ship deepseek plotted the course. 
 
+# what how
+Git clone this shit or just yank the script ansigradients2.sh chmod +x that thin ad run it,
+ive included two example files of the output of a gradient based of #000000, #7a7b7a & #FFFFFF.
+
 I'm putting this here incase anyone else needs a similar tool. i have absolutely zero 
 maintainance intentions, no warranty, use at your own risk, enjoy!
