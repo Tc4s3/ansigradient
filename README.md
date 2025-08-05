@@ -1,5 +1,7 @@
 # ansigradient
 
+https://github.com/user-attachments/assets/f3a49618-e6d2-4961-86fd-2dbc7f42dec8
+
 # what is 
 simplish vibe coded bash script to generate gradient pallettes.
 
@@ -19,4 +21,5 @@ was 16 values and wholey ANSI compliant.
 do whatever you like with it, im giving it no license think of this as effectively public domain 
 lol all i did was stir the ship deepseek plotted the course. 
 
-I'm putting this here incase anyone else needs a similar tool. enjoy!
+I'm putting this here incase anyone else needs a similar tool. i have absolutely zero 
+maintainance intentions, no warranty, use at your own risk, enjoy!
